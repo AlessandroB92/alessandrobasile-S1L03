@@ -1,0 +1,67 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+header {
+    text-align: center;
+}
+header hr {
+    color: yellow;
+    margin: 0;
+}
+main{
+    margin-left: 25%;
+    margin-right: 30%;
+}
+aside{
+    margin-left: 25%;
+    margin-right: 30%;
+}
+blockquote {
+    text-align: center;
+    color: gray;
+}
+main h2 {
+        text-transform: uppercase;
+        color: rgb(168, 72, 37);
+}
+img {
+  border-radius: 10px;
+}
+h1{
+    text-align: center;
+    }
+footer{
+    margin-left: 25%;
+    margin-right: 30%;
+}
+nav a{
+    color: rgb(90, 176, 176);
+    text-transform: capitalize;
+}
+footer a{
+    color: rgb(90, 176, 176);
+}
+ul {
+    line-height: 2em;
+}
+hr{
+    background-color: rgb(90, 176, 176);
+}
+.intestazione {
+    color: rgb(44, 85, 72);
+    background-color: rgb(244, 244, 234);
+    border-top: 2px solid;
+    border-color: rgb(246, 220, 158);
+    padding: 0.3vh;
+}
+.preparazione p {
+    margin-left: 10% ;
+}
+.feat {
+    border-left: 2px solid;
+    border-color: rgb(247, 212, 54);
+    padding-left: 1.5em;
+}
+.feat h2 {
+    margin-bottom: 0;
+}
